@@ -20,19 +20,19 @@ Mail-In Rebate --> uncommon, price increased to 7 dollars.
 
 ---
 
-Banned Seals:
+Banned Seals (1):
 
 Blue Seal
 
 ---
 
-Banned Spectrals:
+Banned Spectrals (1):
 
 Trance
 
 ---
 
-Banned Jokers:
+Banned Jokers (23):
 
 Ceremonial Dagger,
 Supernova,
