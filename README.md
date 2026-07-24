@@ -5,9 +5,9 @@ I'm definitely not trying to tell others how to play the game, but after 1000+ h
 
 I feel that Red Card might even be a better example of "the most game-denying joker I could imagine", where you open a bunch of packs, barely take anything or deckfix, and pretty much just skip everything gain a bazillion mult and win the game.  Not only this, but Red Card and the other mult and chip scalers are basically hand agnostic, meaning pairs or high card, which basically deny the interestingness of the vast majority of the bosses in the game.
 
-The hope with the below changes isn't to balance the difficulty of the game, but to make runs cooler and less tedious, less Grimbo Squimbo and Hologram, playing 4 cards over and over again and taking a card from every standard pack.  How interesting.  
+The hope with the below changes isn't to balance the difficulty of the game, but to make runs cooler and less tedious, less Grimbo Squimbo and Hologram, playing 4 cards over and over again and taking a card from every standard pack.
 
-The game is definitely much harder now, def not the goal, but I do like that!  Also, nothing says you can't play on Black Stake or even White Stake and it might be interesting.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.
+But yeah, the game is definitely much harder now, def not the goal, but I do like it as a side effect, and nothing says you can't play on Black Stake or even White Stake.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.  I wonder if Zodiac, Ghost, Painted (and of course Yellow and Blue) are actually stronger in this format tbh, tho of course Checkered is powerful.
 
 ---
 
