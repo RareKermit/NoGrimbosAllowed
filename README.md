@@ -22,9 +22,9 @@ https://github.com/SylviBlossom/Banner
 
 Rarity / Cost Changes:
 
-Mail-In Rebate --> uncommon, price increased to 7 dollars.
-
 Hanging Chad --> uncommon, price increased to 6 dollars.
+
+Mail-In Rebate --> uncommon, price increased to 7 dollars.
 
 ---
 
