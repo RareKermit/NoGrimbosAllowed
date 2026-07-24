@@ -34,6 +34,12 @@ Blue Seal
 
 ---
 
+Banned Spectrals:
+
+Trance
+
+---
+
 Banned Jokers:
 
 Ceremonial Dagger,
