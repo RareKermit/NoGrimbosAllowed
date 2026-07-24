@@ -18,21 +18,15 @@ https://github.com/SylviBlossom/Banner
 
 (I prompted Sonnet 5 to generate RarityTweaks, available for download in this repo.   It makes the rarity/cost changes:)
 
-\n\n
-
 Rarity / Cost Changes:
 
 Mail-In Rebate --> uncommon, price increased to 7 dollars.
 
 Hanging Chad --> uncommon, price increased to 6 dollars.
 
-\n\n
-
 Banned Seals:
 
 Blue Seal
-
-\n\n
 
 Banned Jokers:
 
