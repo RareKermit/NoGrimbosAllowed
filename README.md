@@ -5,11 +5,11 @@ I'm definitely not trying to tell others how to play the game, but after 1000+ h
 
 I feel that Red Card might even be a better example of "the most game-denying joker I could imagine", where you open a bunch of packs, barely take anything or deckfix, and pretty much just skip everything gain a bazillion mult and win the game.  Not only this, but Red Card and the other mult and chip scalers are basically hand agnostic, meaning pairs or high card, which basically deny the interestingness of the vast majority of the bosses in the game.
 
-I've also given Blue Seal a lot of thought, but it fundamentally is a pair-centric mechanic despite supporting whatever hand you might go for, because pairs are consistent, and the difference between level 20 pair and level 20 flush isn't much.  The difference between level 3 pair and level 3 flush is significant.
+I've also given Blue Seal a lot of thought, but it fundamentally is a pair-centric mechanic despite supporting whatever hand you might go for, because pairs are consistent, and the difference between level 20 pair and level 20 flush isn't much, and you can basically always play 4 pairs.  The difference between level 3 pair and level 3 flush, however, is significant.  It would be cool if things like straights, four of a kind, etc, were more common rather than the vast majority of games being pairs and hand-agnositc scalers.
 
-The hope with the below changes isn't to balance the difficulty of the game, but to make runs cooler and less tedious, less Grimbo and Squimbo and Hologram, playing 4 cards over and over again and taking a card from every standard pack.  How interesting.  
+The hope with the below changes isn't to balance the difficulty of the game, but to make runs cooler and less tedious, less Grimbo Squimbo and Hologram, playing 4 cards over and over again and taking a card from every standard pack.  How interesting.  
 
-The game is definitely much harder now, which I like, but if it's too much for others, nothing says you can't play on Black Stake or even White Stake and it might be interesting.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.
+The game is definitely much harder now, which I like, but also, nothing says you can't play on Black Stake or even White Stake and it might be interesting.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.
 
 ---
 
