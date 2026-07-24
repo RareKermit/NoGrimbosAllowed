@@ -11,6 +11,8 @@ The hope with the below changes isn't to balance the difficulty of the game, but
 
 The game is definitely much harder now, which I like, but if it's too much for others, nothing says you can't play on Black Stake or even White Stake and it might be interesting.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.
 
+---
+
 Anyways, here's the stuff you need and the ruleset:
 
 For the stuff that is banned, you can just use the Banner Mod, available here:
@@ -18,15 +20,21 @@ https://github.com/SylviBlossom/Banner
 
 (I prompted Sonnet 5 to generate RarityTweaks, available for download in this repo.   It makes the rarity/cost changes:)
 
+---
+
 Rarity / Cost Changes:
 
 Mail-In Rebate --> uncommon, price increased to 7 dollars.
 
 Hanging Chad --> uncommon, price increased to 6 dollars.
 
+---
+
 Banned Seals:
 
 Blue Seal
+
+---
 
 Banned Jokers:
 
