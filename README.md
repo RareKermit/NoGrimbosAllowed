@@ -7,7 +7,7 @@ I feel that Red Card might even be a better example of "the most game-denying jo
 
 The hope with the below changes isn't to balance the difficulty of the game, but to make runs cooler and less tedious, less Grimbo Squimbo and Hologram, playing 4 cards over and over again and taking a card from every standard pack.
 
-But yeah, the game is definitely much harder now, def not the goal, but I do like it as a side effect, and nothing says you can't play on Black Stake or even White Stake.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.  I wonder if Zodiac, Ghost, Painted (and of course Yellow and Blue) are actually stronger in this format tbh, tho of course Checkered is powerful.
+But yeah, the game is definitely much harder now, def not the goal, but I do like it as a side effect, and nothing says you can't play on Black Stake or even White Stake.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.  I wonder if Zodiac, Ghost, Painted (and of course Blue and Yellow) are actually stronger in this format tbh, tho of course Checkered is powerful.
 
 ---
 
