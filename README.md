@@ -60,4 +60,4 @@ Bootstraps,
 
 ---
 
-That's it!  And again, do I think this ruleset is perfect?  No.  Absolutely not.  It's just a breath of fresh air for me compared to vanilla and yeah it's definitely a work in progress / will potentially be updated.
+That's it!  And again, do I think this ruleset is perfect?  Absolutely not!  It's just a breath of fresh air for me compared to vanilla and yeah it's definitely a work in progress / will potentially be updated.
