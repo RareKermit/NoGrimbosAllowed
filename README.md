@@ -8,7 +8,7 @@ I'm definitely not trying to tell others how to play the game, but after 1000+ h
 For the stuff that is banned, you can just use the Banner Mod, available here:
 https://github.com/SylviBlossom/Banner
 
-(I prompted Sonnet 5 to generate RarityTweaks, available for download in this repo.   It makes the rarity/cost changes:)
+(I prompted Opus 5 to quickly generate RarityTweaks, available for download in this repo.   It makes the rarity/cost changes:)
 
 ---
 
