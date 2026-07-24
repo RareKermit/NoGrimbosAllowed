@@ -1,0 +1,14 @@
+{
+    "id": "raritytweaks",
+    "name": "Rarity Tweaks",
+    "display_name": "Rarity",
+    "author": ["Birbivore"],
+    "description": "Changes Hanging Chad and Mail-In Rebate from Common to Uncommon.",
+    "prefix": "raritytweaks",
+    "main_file": "RarityTweaks.lua",
+    "version": "1.2.0",
+    "priority": 0,
+    "badge_colour": "8B6DB2",
+    "badge_text_colour": "FFFFFF",
+    "dependencies": ["Steamodded (>=1.0.0)"]
+}
