@@ -1,2 +1,55 @@
 # NoGrimbosAllowed
-A banset / ruleset for Balatro that I prefer to vanilla
+
+A work-in-progress banset / ruleset for Balatro that I think is a lot more fun and interesting than vanilla.
+I'm definitely not trying to tell others how to play the game, but after 1000+ hours I am definitely tired of Grimbo and Blue Seal.
+
+I feel that Red Card might even be a better example of "the most game-denying joker I could imagine", where you open a bunch of packs, barely take anything or deckfix, and pretty much just skip everything gain a bazillion mult and win the game.  Not only this, but Red Card and the other mult and chip scalers are basically hand agnostic, meaning pairs or high card, which basically deny the interestingness of the vast majority of the bosses in the game.
+
+I've also given Blue Seal a lot of thought, but it fundamentally is a pair-centric mechanic despite supporting whatever hand you might go for, because pairs are consistent, and the difference between level 20 pair and level 20 flush isn't much.  The difference between level 3 pair and level 3 flush is significant.
+
+The hope with the below changes isn't to balance the difficulty of the game, but to make runs cooler and less tedious, less Grimbo and Squimbo and Hologram, playing 4 cards over and over again and taking a card from every standard pack.  How interesting.  
+
+The game is definitely much harder now, which I like, but if it's too much for others, nothing says you can't play on Black Stake or even White Stake and it might be interesting.  I currently (3 days into playing this) seem to have like a ~40% winrate on Gold Stake on Checkered, compared to my ~83% on Gold Stake Checkered in the vanilla game, so ya it's much harder lol.
+
+Anyways, here's the stuff you need and the ruleset:
+
+For the stuff that is banned, you can just use the Banner Mod, available here:
+https://github.com/SylviBlossom/Banner
+
+(I prompted Sonnet 5 to generate RarityTweaks, available for download in this repo.   It makes the rarity/cost changes:)
+
+Rarity / Cost Changes:
+Mail-In Rebate --> uncommon, price increased to 7 dollars.
+Hanging Chad --> uncommon, price increased to 6 dollars.
+
+Banned Seals:
+Blue Seal
+
+Banned Jokers:
+Ceremonial Dagger
+Supernova
+Ride the Bus
+Space Joker
+Runner
+Constellation
+Green Joker
+Red Card
+Square Joker
+Hologram
+Vagabond
+Erosion
+Fortune Teller
+Stone Joker
+Bull
+Flash Card
+Spare Trousers
+Castle
+Swashbuckler
+Wee Joker
+Stuntman
+Burnt Joker
+Bootstraps
+
+---
+
+That's it!  And again, do I think this ruleset is perfect?  No.  Absolutely not.  It's just a breath of fresh air for me compared to vanilla and yeah it's definitely a work in progress / will potentially be updated.
